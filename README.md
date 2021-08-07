@@ -1,2 +1,2 @@
 # thelazyreader
-I don't want to manually read my news. Why can't I have an AI do it for me?
+Não quero ler minhas notícias manualmente. Por que não posso fazer um bot lê-las para mim?
